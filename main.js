@@ -1,17 +1,11 @@
 // input to heading binding function
 (function () {
-  var idName = "userInput";
-  var previewId = "preview";
+  var userInput = document.getElementById("userInput");
+  var preview = document.getElementById("preview");
 
-  function attachEvent(idName) {
-    var userInput = document.getElementById(idName);
-    var preview = document.getElementById(previewId);
-
-    userInput.onkeyup = function () {
-      preview.innerHTML = toRoman(this.value);
-    }
-  };
-  attachEvent(idName);
+  userInput.onkeyup = function () {
+    preview.innerHTML = toRoman(this.value);
+  }
 })();
 
 // roman numeral converter
