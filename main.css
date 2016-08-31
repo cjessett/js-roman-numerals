@@ -1,0 +1,23 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 1em;
+  text-align: center;
+  font-family: 'Helvetica';
+}
+
+h1, h2 {
+  font-weight: 200;
+  margin: 2em;
+}
+
+input {
+  line-height: 27px;
+  font-size: 1em;
+  margin: `em;
+}
+
+main {
+  margin-top: 10em;
+  font-size: 30px;
+}
