@@ -8,13 +8,12 @@ body {
 
 h1, h2 {
   font-weight: 200;
-  margin: 2em;
+  margin: 1em;
 }
 
 input {
   line-height: 27px;
   font-size: 1em;
-  margin: `em;
 }
 
 main {
