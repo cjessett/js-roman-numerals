@@ -1,3 +1,2 @@
-https://cjessett.github.io/js-roman-numerals/
-Vanilla JS Roman numeral converter
+## [Vanilla JS Roman numeral converter](https://cjessett.github.io/js-roman-numerals/)
 
